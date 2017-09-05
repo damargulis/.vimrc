@@ -8,6 +8,8 @@ set shiftwidth=4
 set backspace=indent,eol,start
 set ruler
 set scrolloff=4
+set ignorecase
+set smartcase
 
 nnoremap <C-H> <C-W><C-H>
 nnoremap <C-J> <C-W><C-J>
